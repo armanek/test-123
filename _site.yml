@@ -1,0 +1,58 @@
+name: "my-website"
+output_dir: "docs"
+navbar:
+  title: "Ansgarius Manek"
+  left:
+    - text: "Home"
+      href: index.html
+
+    - text: "Research"
+      menu:
+        - text: "Working Papers"
+          href: working-papers.html
+        - text: "Data & Code"
+          href: data-code.html
+        - text: "Presentations"
+          href: presentations.html
+
+    - text: "Teaching"
+      menu:
+        - text: "Courses"
+          href: courses.html
+
+    - text: "Service & Outreach"
+      href: service.html
+
+    - text: "Notes"
+      href: notes.html
+
+    - text: "CV"
+      menu:
+        - text: "View CV (HTML)"
+          href: cv.html
+        - text: "Download CV (PDF)"
+          href: files/CV.pdf   # place your PDF at files/CV.pdf
+
+    - text: "Contact"
+      href: contact.html
+
+  right:
+    - icon: fa-github
+      href: https://github.com/armanek
+    - text: "Scholar"
+      href: https://scholar.google.com/citations?user=YOURID
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/ansgariusmanek
+    - icon: fa-envelope
+      href: mailto:ansgarius.manek@colorado.edu
+    - icon: fa-twitter
+      href: https://x.com/Richard_Manek
+      title: "X"
+
+
+output:
+  html_document:
+    theme: cosmo        # try: flatly, yeti, lumen, etc.
+    toc: true
+    toc_depth: 2
+    toc_float: true

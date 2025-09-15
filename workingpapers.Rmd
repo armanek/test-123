@@ -1,0 +1,9 @@
+---
+title: "Working Papers"
+---
+
+**2025**  
+Doe, J. & Manek, A. “Title.” *Journal of Politics*. [Publisher link](#) · [PDF](files/doe-manek-2025.pdf)
+
+**2024**  
+Manek, A. “Title.” *Political Analysis*. [PDF](files/manek-2024.pdf)

@@ -1,0 +1,9 @@
+---
+title: "Courses"
+---
+
+- **PSCI 1101 (Recitation 101 & 104)**  
+  Weekly slides, activities, and office hours.
+
+- **Guest Lectures**  
+  Links to decks and materials.
